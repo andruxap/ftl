@@ -1,0 +1,11 @@
+{
+  "name": "ftl_html",
+  "version": "1.0.0",
+  "description": "This is a FTL 3D Studios website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Ponomarov",
+  "license": "ISC"
+}
