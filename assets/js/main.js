@@ -938,3 +938,12 @@ License: https://themeforest.net/licenses/standard
 		ln_navigationOnScroll();
 	});
 })(jQuery);
+
+// the JavaScript function that you can add to your code to make the button navigate to the contact section
+
+function scrollToSection(sectionAnchor) {
+	const section = document.querySelector(`[data-anchor='${sectionAnchor}']`);
+	if (section) {
+		section.scrollIntoView({ behavior: "smooth" });
+	}
+}
