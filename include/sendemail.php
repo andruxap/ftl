@@ -21,8 +21,8 @@ $recipients[] = array(
 
 // Set the sender email address here
 $sender = array(
-	'email' => 'donotreply@companywebsite.com',
-	'name' => 'Company Name'
+	'email' => 'andrey@ftl3dstudios.com',
+	'name' => 'FTL 3D Studios'
 );
 
 
